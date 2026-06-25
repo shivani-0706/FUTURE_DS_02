@@ -54,5 +54,7 @@ Business Recommendations
 • Reward loyal long-term customers.
 
 Author:Shivani Manchikatla
+
 LinkedIn: https://www.linkedin.com/in/shivani-manchikatla-9b13a5340/L
+
 GitHub: https://github.com/shivani-0706
